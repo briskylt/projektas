@@ -1,0 +1,933 @@
+@media (min-width: 992px) and (max-width: 1199px) {
+  /* line 4, C:/Users/Rytis/Desktop/projektas/assets/sass/app.scss */
+  .services-box .services-box-icon {
+    width: 60px;
+    height: 60px;
+    font-size: 32px;
+    line-height: 60px;
+    border-radius: 22px;
+  }
+  /* line 6, C:/Users/Rytis/Desktop/projektas/assets/sass/app.scss */
+  .about-us-box-text {
+    padding-right: 0;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  /* line 12, C:/Users/Rytis/Desktop/projektas/assets/sass/app.scss */
+  .navbar-expand-md .navbar-nav .nav-link {
+    padding-left: 0.6rem;
+    padding-right: 0.6rem;
+  }
+  /* line 14, C:/Users/Rytis/Desktop/projektas/assets/sass/app.scss */
+  .top-content {
+    padding: 180px 0;
+  }
+  /* line 16, C:/Users/Rytis/Desktop/projektas/assets/sass/app.scss */
+  .section-description p {
+    padding: 0;
+  }
+  /* line 18, C:/Users/Rytis/Desktop/projektas/assets/sass/app.scss */
+  .services-box .services-box-icon {
+    width: 50px;
+    height: 50px;
+    font-size: 26px;
+    line-height: 50px;
+    border-radius: 18px;
+  }
+  /* line 20, C:/Users/Rytis/Desktop/projektas/assets/sass/app.scss */
+  .about-us-box {
+    margin-top: 80px;
+  }
+  /* line 21, C:/Users/Rytis/Desktop/projektas/assets/sass/app.scss */
+  .about-us-box:last-child {
+    margin-top: 50px;
+  }
+  /* line 22, C:/Users/Rytis/Desktop/projektas/assets/sass/app.scss */
+  .about-us-box-text {
+    padding-right: 0;
+    text-align: center;
+  }
+  /* line 24, C:/Users/Rytis/Desktop/projektas/assets/sass/app.scss */
+  .more-services-box .more-services-box-icon {
+    width: 50px;
+    height: 50px;
+    font-size: 26px;
+    line-height: 50px;
+    border-radius: 18px;
+  }
+  /* line 26, C:/Users/Rytis/Desktop/projektas/assets/sass/app.scss */
+  .portfolio-box h3:hover i {
+    padding-left: 10px;
+  }
+  /* line 28, C:/Users/Rytis/Desktop/projektas/assets/sass/app.scss */
+  .blog-box h3:hover i {
+    padding-left: 10px;
+  }
+}
+
+@media (max-width: 767px) {
+  /* line 34, C:/Users/Rytis/Desktop/projektas/assets/sass/app.scss */
+  .navbar.navbar-no-bg {
+    background: #444;
+  }
+  /* line 35, C:/Users/Rytis/Desktop/projektas/assets/sass/app.scss */
+  .navbar-dark .navbar-toggler {
+    border-color: #444;
+  }
+  /* line 36, C:/Users/Rytis/Desktop/projektas/assets/sass/app.scss */
+  .navbar-dark .navbar-toggler:focus {
+    background: #333;
+    outline: 0;
+  }
+  /* line 37, C:/Users/Rytis/Desktop/projektas/assets/sass/app.scss */
+  .navbar-expand-md .navbar-nav .nav-link {
+    padding-top: 0.3rem;
+    padding-bottom: 0.3rem;
+  }
+  /* line 39, C:/Users/Rytis/Desktop/projektas/assets/sass/app.scss */
+  .top-content {
+    padding: 140px 0;
+  }
+  /* line 40, C:/Users/Rytis/Desktop/projektas/assets/sass/app.scss */
+  .top-content .top-big-link {
+    margin-top: 25px;
+  }
+  /* line 41, C:/Users/Rytis/Desktop/projektas/assets/sass/app.scss */
+  .top-content .top-big-link a.btn {
+    margin-top: 10px;
+  }
+  /* line 43, C:/Users/Rytis/Desktop/projektas/assets/sass/app.scss */
+  .section-description p {
+    padding: 0;
+  }
+  /* line 45, C:/Users/Rytis/Desktop/projektas/assets/sass/app.scss */
+  .services-container {
+    padding-bottom: 60px;
+  }
+  /* line 46, C:/Users/Rytis/Desktop/projektas/assets/sass/app.scss */
+  .services-box {
+    text-align: center;
+  }
+  /* line 47, C:/Users/Rytis/Desktop/projektas/assets/sass/app.scss */
+  .services-box h3 {
+    margin-top: 20px;
+    padding-top: 10px;
+  }
+  /* line 49, C:/Users/Rytis/Desktop/projektas/assets/sass/app.scss */
+  .about-us-box {
+    margin-top: 80px;
+  }
+  /* line 50, C:/Users/Rytis/Desktop/projektas/assets/sass/app.scss */
+  .about-us-box:last-child {
+    margin-top: 50px;
+  }
+  /* line 51, C:/Users/Rytis/Desktop/projektas/assets/sass/app.scss */
+  .about-us-box-text {
+    padding-right: 0;
+    text-align: center;
+  }
+  /* line 53, C:/Users/Rytis/Desktop/projektas/assets/sass/app.scss */
+  .more-services-box {
+    text-align: center;
+  }
+  /* line 54, C:/Users/Rytis/Desktop/projektas/assets/sass/app.scss */
+  .more-services-box h3 {
+    margin-top: 20px;
+    padding-top: 10px;
+  }
+  /* line 56, C:/Users/Rytis/Desktop/projektas/assets/sass/app.scss */
+  .portfolio-box {
+    text-align: center;
+  }
+  /* line 57, C:/Users/Rytis/Desktop/projektas/assets/sass/app.scss */
+  .portfolio-box-image {
+    max-width: 540px;
+    margin: 0 auto;
+  }
+  /* line 59, C:/Users/Rytis/Desktop/projektas/assets/sass/app.scss */
+  .blog-box {
+    text-align: center;
+  }
+  /* line 60, C:/Users/Rytis/Desktop/projektas/assets/sass/app.scss */
+  .blog-box-image {
+    max-width: 540px;
+    margin: 0 auto;
+  }
+  /* line 61, C:/Users/Rytis/Desktop/projektas/assets/sass/app.scss */
+  .blog-box h3 {
+    margin-top: 30px;
+  }
+  /* line 63, C:/Users/Rytis/Desktop/projektas/assets/sass/app.scss */
+  footer {
+    text-align: center;
+  }
+  /* line 64, C:/Users/Rytis/Desktop/projektas/assets/sass/app.scss */
+  .footer-right {
+    padding-top: 10px;
+    text-align: center;
+  }
+  /* line 65, C:/Users/Rytis/Desktop/projektas/assets/sass/app.scss */
+  .footer-bottom {
+    padding-top: 20px;
+  }
+}
+
+@media (max-width: 415px) {
+  /* line 71, C:/Users/Rytis/Desktop/projektas/assets/sass/app.scss */
+  h1, h2 {
+    font-size: 32px;
+  }
+}
+
+/* Retina-ize images/icons */
+@media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min--moz-device-pixel-ratio: 2), only screen and (-o-min-device-pixel-ratio: 2 / 1), only screen and (min-device-pixel-ratio: 2), only screen and (min-resolution: 192dpi), only screen and (min-resolution: 2dppx) {
+  /* logo */
+  /* line 87, C:/Users/Rytis/Desktop/projektas/assets/sass/app.scss */
+  .navbar-brand {
+    background-image: url(../img/logo@2x.png) !important;
+    background-repeat: no-repeat !important;
+    background-size: 136px 39px !important;
+  }
+}
+
+/* line 94, C:/Users/Rytis/Desktop/projektas/assets/sass/app.scss */
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
+  font-weight: 300;
+  color: #888;
+  line-height: 30px;
+  text-align: center;
+}
+
+/* line 103, C:/Users/Rytis/Desktop/projektas/assets/sass/app.scss */
+strong {
+  font-weight: 600;
+}
+
+/* line 105, C:/Users/Rytis/Desktop/projektas/assets/sass/app.scss */
+a, a:hover, a:focus {
+  color: #9b59b6;
+  text-decoration: none;
+  transition: all .3s;
+}
+
+/* line 107, C:/Users/Rytis/Desktop/projektas/assets/sass/app.scss */
+h1, h2 {
+  margin-top: 10px;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 38px;
+  font-weight: 300;
+  color: #555;
+  line-height: 50px;
+}
+
+/* line 116, C:/Users/Rytis/Desktop/projektas/assets/sass/app.scss */
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 22px;
+  font-weight: 300;
+  color: #555;
+  line-height: 30px;
+}
+
+/* line 124, C:/Users/Rytis/Desktop/projektas/assets/sass/app.scss */
+img {
+  max-width: 100%;
+}
+
+/* line 126, C:/Users/Rytis/Desktop/projektas/assets/sass/app.scss */
+.medium-paragraph {
+  font-size: 17px;
+  line-height: 32px;
+}
+
+/* line 131, C:/Users/Rytis/Desktop/projektas/assets/sass/app.scss */
+.colored-text {
+  color: #9b59b6;
+}
+
+/* line 133, C:/Users/Rytis/Desktop/projektas/assets/sass/app.scss */
+::-moz-selection {
+  background: #9b59b6;
+  color: #fff;
+  text-shadow: none;
+}
+
+/* line 134, C:/Users/Rytis/Desktop/projektas/assets/sass/app.scss */
+::selection {
+  background: #9b59b6;
+  color: #fff;
+  text-shadow: none;
+}
+
+/***** General style, all sections *****/
+/* line 139, C:/Users/Rytis/Desktop/projektas/assets/sass/app.scss */
+.section-container {
+  margin: 0 auto;
+  padding-bottom: 80px;
+}
+
+/* line 144, C:/Users/Rytis/Desktop/projektas/assets/sass/app.scss */
+.section-container-gray-bg {
+  background: #f8f8f8;
+}
+
+/* line 148, C:/Users/Rytis/Desktop/projektas/assets/sass/app.scss */
+.section-container-image-bg,
+.section-container-image-bg h2,
+.section-container-image-bg h3 {
+  color: #fff;
+}
+
+/* line 154, C:/Users/Rytis/Desktop/projektas/assets/sass/app.scss */
+.section-container-image-bg .divider-1 span {
+  border-color: #fff;
+}
+
+/* line 158, C:/Users/Rytis/Desktop/projektas/assets/sass/app.scss */
+.section-description {
+  margin-top: 60px;
+  padding-bottom: 10px;
+}
+
+/* line 163, C:/Users/Rytis/Desktop/projektas/assets/sass/app.scss */
+.section-description p {
+  margin-top: 20px;
+  padding: 0 120px;
+}
+
+/* line 167, C:/Users/Rytis/Desktop/projektas/assets/sass/app.scss */
+.section-container-image-bg .section-description p {
+  opacity: 0.8;
+}
+
+/* line 171, C:/Users/Rytis/Desktop/projektas/assets/sass/app.scss */
+.section-bottom-button {
+  padding-top: 60px;
+}
+
+/* line 175, C:/Users/Rytis/Desktop/projektas/assets/sass/app.scss */
+.btn-link-1 {
+  display: inline-block;
+  height: 50px;
+  margin: 0 5px;
+  padding: 0 28px;
+  background: #9b59b6;
+  background: rgba(155, 89, 182, 0.7);
+  border: 0;
+  font-size: 15px;
+  font-weight: 600;
+  line-height: 48px;
+  color: #fff;
+  border-radius: 4px;
+  transition: all .3s;
+}
+
+/* line 190, C:/Users/Rytis/Desktop/projektas/assets/sass/app.scss */
+.btn-link-1:hover, .btn-link-1:focus, .btn-link-1:active, .btn-link-1:active:focus,
+.btn-link-1.btn-primary:not(:disabled):not(.disabled):active,
+.btn-link-1.btn-primary:not(:disabled):not(.disabled):active:focus {
+  background: #9b59b6;
+  background: rgba(155, 89, 182, 0.9);
+  outline: 0;
+  color: #fff;
+  box-shadow: none;
+}
+
+/* line 200, C:/Users/Rytis/Desktop/projektas/assets/sass/app.scss */
+.btn-link-2 {
+  display: inline-block;
+  height: 50px;
+  margin: 0 5px;
+  padding: 0 28px;
+  background: #333;
+  background: rgba(0, 0, 0, 0.2);
+  border: 0;
+  font-size: 15px;
+  font-weight: 600;
+  line-height: 48px;
+  color: #fff;
+  border-radius: 4px;
+  transition: all .3s;
+}
+
+/* line 215, C:/Users/Rytis/Desktop/projektas/assets/sass/app.scss */
+.btn-link-2:hover, .btn-link-2:focus, .btn-link-2:active, .btn-link-2:active:focus,
+.btn-link-2.btn-primary:not(:disabled):not(.disabled):active,
+.btn-link-2.btn-primary:not(:disabled):not(.disabled):active:focus {
+  background: #333;
+  background: rgba(0, 0, 0, 0.4);
+  outline: 0;
+  color: #fff;
+  box-shadow: none;
+}
+
+/* line 221, C:/Users/Rytis/Desktop/projektas/assets/sass/app.scss */
+.btn-link-3 {
+  display: inline-block;
+  height: 50px;
+  margin: 0 5px;
+  padding: 0 28px;
+  background: none;
+  border: 0;
+  border-bottom: 2px solid #9b59b6;
+  font-size: 15px;
+  font-weight: 600;
+  line-height: 48px;
+  color: #9b59b6;
+  border-radius: 0;
+  transition: all .3s;
+}
+
+/* line 236, C:/Users/Rytis/Desktop/projektas/assets/sass/app.scss */
+.btn-link-3:hover, .btn-link-3:focus, .btn-link-3:active, .btn-link-3:active:focus,
+.btn-link-3.btn-primary:not(:disabled):not(.disabled):active,
+.btn-link-3.btn-primary:not(:disabled):not(.disabled):active:focus {
+  padding: 0 10px;
+  background: none;
+  border: 0;
+  border-bottom: 2px solid #9b59b6;
+  outline: 0;
+  color: #9b59b6;
+  box-shadow: none;
+}
+
+/***** Divider *****/
+/* line 251, C:/Users/Rytis/Desktop/projektas/assets/sass/app.scss */
+.divider-1 span {
+  display: inline-block;
+  width: 200px;
+  border-bottom: 1px dashed #ccc;
+}
+
+/***** Top menu *****/
+/* line 260, C:/Users/Rytis/Desktop/projektas/assets/sass/app.scss */
+.navbar {
+  background: #444;
+  -o-transition: all .6s;
+  -moz-transition: all .6s;
+  -webkit-transition: all .6s;
+  -ms-transition: all .6s;
+  transition: all .6s;
+  backface-visibility: hidden;
+}
+
+/* line 265, C:/Users/Rytis/Desktop/projektas/assets/sass/app.scss */
+.navbar.navbar-no-bg {
+  background: #444;
+  background: rgba(0, 0, 0, 0.2);
+}
+
+/* line 267, C:/Users/Rytis/Desktop/projektas/assets/sass/app.scss */
+.navbar-dark .navbar-nav {
+  font-size: 15px;
+  color: #fff;
+  font-weight: 600;
+}
+
+/* line 268, C:/Users/Rytis/Desktop/projektas/assets/sass/app.scss */
+.navbar-dark .navbar-nav .nav-link {
+  color: #fff;
+  color: rgba(255, 255, 255, 0.8);
+  border: 0;
+}
+
+/* line 269, C:/Users/Rytis/Desktop/projektas/assets/sass/app.scss */
+.navbar-dark .navbar-nav .nav-link:hover {
+  color: #fff;
+}
+
+/* line 270, C:/Users/Rytis/Desktop/projektas/assets/sass/app.scss */
+.navbar-dark .navbar-nav .nav-link:focus {
+  color: #fff;
+  outline: 0;
+}
+
+/* line 272, C:/Users/Rytis/Desktop/projektas/assets/sass/app.scss */
+.navbar-expand-md .navbar-nav .nav-link {
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+/* line 274, C:/Users/Rytis/Desktop/projektas/assets/sass/app.scss */
+.navbar-brand {
+  width: 136px;
+  background: url(../img/logo.png) left center no-repeat;
+  border: 0;
+  text-indent: -99999px;
+}
+
+/***** Top content *****/
+/* line 284, C:/Users/Rytis/Desktop/projektas/assets/sass/app.scss */
+.top-content {
+  padding: 210px 0;
+}
+
+/* line 288, C:/Users/Rytis/Desktop/projektas/assets/sass/app.scss */
+.top-content .text {
+  color: #fff;
+}
+
+/* line 292, C:/Users/Rytis/Desktop/projektas/assets/sass/app.scss */
+.top-content .text h1 {
+  margin-top: 25px;
+  color: #fff;
+}
+
+/* line 297, C:/Users/Rytis/Desktop/projektas/assets/sass/app.scss */
+.top-content .description {
+  margin: 30px 0 10px 0;
+}
+
+/* line 301, C:/Users/Rytis/Desktop/projektas/assets/sass/app.scss */
+.top-content .description p {
+  opacity: 0.8;
+}
+
+/* line 303, C:/Users/Rytis/Desktop/projektas/assets/sass/app.scss */
+.top-content .top-big-link {
+  margin-top: 45px;
+}
+
+/***** Services *****/
+/* line 310, C:/Users/Rytis/Desktop/projektas/assets/sass/app.scss */
+.services-box {
+  padding-top: 30px;
+  text-align: left;
+}
+
+/* line 315, C:/Users/Rytis/Desktop/projektas/assets/sass/app.scss */
+.services-box .services-box-icon {
+  width: 80px;
+  height: 80px;
+  margin: 0 auto;
+  font-size: 40px;
+  color: #fff;
+  line-height: 80px;
+  text-align: center;
+  border-radius: 28px;
+  background: #9b59b6;
+  /* Old browsers */
+  background: -moz-linear-gradient(top, #ffb24b 0%, #9b59b6 100%);
+  /* FF3.6+ */
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #ffb24b), color-stop(100%, #9b59b6));
+  /* Chrome,Safari4+ */
+  background: -webkit-linear-gradient(top, #ffb24b 0%, #9b59b6 100%);
+  /* Chrome10+,Safari5.1+ */
+  background: -o-linear-gradient(top, #ffb24b 0%, #9b59b6 100%);
+  /* Opera 11.10+ */
+  background: -ms-linear-gradient(top, #ffb24b 0%, #9b59b6 100%);
+  /* IE10+ */
+  background: linear-gradient(to bottom, #ffb24b 0%, #9b59b6 100%);
+  /* W3C */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffb24b', endColorstr='#9b59b6',GradientType=0 );
+  /* IE6-9 */
+}
+
+/* line 335, C:/Users/Rytis/Desktop/projektas/assets/sass/app.scss */
+.services-box h3 {
+  margin-top: 0;
+  padding: 0 0 10px 0;
+}
+
+/***** About us *****/
+/* line 343, C:/Users/Rytis/Desktop/projektas/assets/sass/app.scss */
+.about-us-box {
+  margin-top: 100px;
+}
+
+/* line 347, C:/Users/Rytis/Desktop/projektas/assets/sass/app.scss */
+.about-us-box-text {
+  padding-right: 30px;
+  text-align: left;
+}
+
+/* line 352, C:/Users/Rytis/Desktop/projektas/assets/sass/app.scss */
+.about-us-box-text h3 {
+  margin-top: 0;
+}
+
+/* line 356, C:/Users/Rytis/Desktop/projektas/assets/sass/app.scss */
+.about-us-box-text .medium-paragraph {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+/* line 361, C:/Users/Rytis/Desktop/projektas/assets/sass/app.scss */
+.about-us-box-text a {
+  border-bottom: 1px dashed #9b59b6;
+}
+
+/* line 362, C:/Users/Rytis/Desktop/projektas/assets/sass/app.scss */
+.about-us-box-text a:hover, .about-us-box-text a:focus {
+  border: 0;
+}
+
+/* line 364, C:/Users/Rytis/Desktop/projektas/assets/sass/app.scss */
+.about-us-box-img img {
+  border-radius: 4px;
+}
+
+/***** More services *****/
+/* line 371, C:/Users/Rytis/Desktop/projektas/assets/sass/app.scss */
+.more-services-box {
+  margin-top: 30px;
+  text-align: left;
+}
+
+/* line 376, C:/Users/Rytis/Desktop/projektas/assets/sass/app.scss */
+.more-services-box .more-services-box-icon {
+  width: 60px;
+  height: 60px;
+  margin: 0 auto;
+  font-size: 28px;
+  color: #fff;
+  line-height: 60px;
+  text-align: center;
+  border-radius: 22px;
+  background: #9b59b6;
+  /* Old browsers */
+  background: -moz-linear-gradient(top, #ffb24b 0%, #9b59b6 100%);
+  /* FF3.6+ */
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #ffb24b), color-stop(100%, #9b59b6));
+  /* Chrome,Safari4+ */
+  background: -webkit-linear-gradient(top, #ffb24b 0%, #9b59b6 100%);
+  /* Chrome10+,Safari5.1+ */
+  background: -o-linear-gradient(top, #ffb24b 0%, #9b59b6 100%);
+  /* Opera 11.10+ */
+  background: -ms-linear-gradient(top, #ffb24b 0%, #9b59b6 100%);
+  /* IE10+ */
+  background: linear-gradient(to bottom, #ffb24b 0%, #9b59b6 100%);
+  /* W3C */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffb24b', endColorstr='#9b59b6',GradientType=0 );
+  /* IE6-9 */
+}
+
+/* line 396, C:/Users/Rytis/Desktop/projektas/assets/sass/app.scss */
+.more-services-box h3 {
+  margin-top: 0;
+  padding: 0 0 10px 0;
+}
+
+/***** Call to action *****/
+/* line 404, C:/Users/Rytis/Desktop/projektas/assets/sass/app.scss */
+.call-to-action-container .section-bottom-button {
+  padding-top: 30px;
+}
+
+/***** Portfolio *****/
+/* line 411, C:/Users/Rytis/Desktop/projektas/assets/sass/app.scss */
+.portfolio-box {
+  padding-top: 30px;
+  text-align: left;
+}
+
+/* line 416, C:/Users/Rytis/Desktop/projektas/assets/sass/app.scss */
+.portfolio-box-image {
+  overflow: hidden;
+  border-radius: 4px;
+}
+
+/* line 421, C:/Users/Rytis/Desktop/projektas/assets/sass/app.scss */
+.portfolio-box-image img {
+  -o-transition: all .8s;
+  -moz-transition: all .8s;
+  -webkit-transition: all .8s;
+  -ms-transition: all .8s;
+  transition: all .8s;
+}
+
+/* line 425, C:/Users/Rytis/Desktop/projektas/assets/sass/app.scss */
+.portfolio-box-image:hover img {
+  -o-transform: scale(1.25);
+  -moz-transform: scale(1.25);
+  -webkit-transform: scale(1.25);
+  -ms-transform: scale(1.25);
+  transform: scale(1.25);
+}
+
+/* line 429, C:/Users/Rytis/Desktop/projektas/assets/sass/app.scss */
+.portfolio-box h3 {
+  margin-top: 30px;
+}
+
+/* line 432, C:/Users/Rytis/Desktop/projektas/assets/sass/app.scss */
+.portfolio-box h3 a {
+  color: #555;
+}
+
+/* line 433, C:/Users/Rytis/Desktop/projektas/assets/sass/app.scss */
+.portfolio-box h3 a:hover, .portfolio-box h3 a:focus {
+  color: #9b59b6;
+}
+
+/* line 435, C:/Users/Rytis/Desktop/projektas/assets/sass/app.scss */
+.portfolio-box h3 i {
+  padding-left: 10px;
+  color: #ccc;
+  -o-transition: all .3s;
+  -moz-transition: all .3s;
+  -webkit-transition: all .3s;
+  -ms-transition: all .3s;
+  transition: all .3s;
+}
+
+/* line 440, C:/Users/Rytis/Desktop/projektas/assets/sass/app.scss */
+.portfolio-box h3:hover i {
+  padding-left: 15px;
+}
+
+/* line 442, C:/Users/Rytis/Desktop/projektas/assets/sass/app.scss */
+.portfolio-box-date {
+  padding-bottom: 10px;
+  font-size: 14px;
+  color: #aaa;
+  text-transform: uppercase;
+}
+
+/* line 449, C:/Users/Rytis/Desktop/projektas/assets/sass/app.scss */
+.portfolio-box-date i {
+  padding-right: 5px;
+  color: #ddd;
+}
+
+/* line 454, C:/Users/Rytis/Desktop/projektas/assets/sass/app.scss */
+.portfolio-container .section-bottom-button {
+  padding-top: 40px;
+}
+
+/***** Testimonials *****/
+/* line 461, C:/Users/Rytis/Desktop/projektas/assets/sass/app.scss */
+.testimonials-container {
+  padding-bottom: 70px;
+}
+
+/* line 465, C:/Users/Rytis/Desktop/projektas/assets/sass/app.scss */
+.testimonial-list {
+  margin-top: 30px;
+  text-align: center;
+}
+
+/* line 470, C:/Users/Rytis/Desktop/projektas/assets/sass/app.scss */
+.testimonial-list .testimonial-image img {
+  max-width: 160px;
+  border-radius: 4px;
+}
+
+/* line 475, C:/Users/Rytis/Desktop/projektas/assets/sass/app.scss */
+.testimonial-list .testimonial-text {
+  margin-top: 30px;
+  opacity: 0.8;
+}
+
+/* line 480, C:/Users/Rytis/Desktop/projektas/assets/sass/app.scss */
+.testimonial-list .testimonial-text a {
+  color: #fff;
+  border-bottom: 1px dashed #fff;
+}
+
+/* line 484, C:/Users/Rytis/Desktop/projektas/assets/sass/app.scss */
+.testimonial-list .testimonial-text a:hover,
+.testimonial-list .testimonial-text a:focus {
+  color: #fff;
+  border: 0;
+}
+
+/* line 487, C:/Users/Rytis/Desktop/projektas/assets/sass/app.scss */
+.testimonial-list .nav-tabs {
+  margin-top: 45px;
+  border: 0;
+  justify-content: center;
+}
+
+/* line 493, C:/Users/Rytis/Desktop/projektas/assets/sass/app.scss */
+.testimonial-list .nav-tabs li {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+/* line 498, C:/Users/Rytis/Desktop/projektas/assets/sass/app.scss */
+.testimonial-list .nav-tabs li a {
+  width: 16px;
+  height: 16px;
+  padding: 0;
+  background: none;
+  border: 1px solid #fff;
+  border-color: rgba(255, 255, 255, 0.8);
+  -moz-border-radius: 50%;
+  -webkit-border-radius: 50%;
+  border-radius: 50%;
+}
+
+/* line 508, C:/Users/Rytis/Desktop/projektas/assets/sass/app.scss */
+.testimonial-list .nav-tabs li a:hover,
+.testimonial-list .nav-tabs li a:focus {
+  background: #fff;
+  background: rgba(255, 255, 255, 0.8);
+  border: 1px solid #fff;
+  border-color: rgba(255, 255, 255, 0.8);
+}
+
+/* line 516, C:/Users/Rytis/Desktop/projektas/assets/sass/app.scss */
+.testimonial-list .nav-tabs li a.active,
+.testimonial-list .nav-tabs li a.active:focus {
+  background: #9b59b6;
+  /* Old browsers */
+  background: -moz-linear-gradient(top, #ffb24b 0%, #9b59b6 100%);
+  /* FF3.6+ */
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #ffb24b), color-stop(100%, #9b59b6));
+  /* Chrome,Safari4+ */
+  background: -webkit-linear-gradient(top, #ffb24b 0%, #9b59b6 100%);
+  /* Chrome10+,Safari5.1+ */
+  background: -o-linear-gradient(top, #ffb24b 0%, #9b59b6 100%);
+  /* Opera 11.10+ */
+  background: -ms-linear-gradient(top, #ffb24b 0%, #9b59b6 100%);
+  /* IE10+ */
+  background: linear-gradient(to bottom, #ffb24b 0%, #9b59b6 100%);
+  /* W3C */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffb24b', endColorstr='#9b59b6',GradientType=0 );
+  /* IE6-9 */
+  border: 0;
+}
+
+/***** Blog *****/
+/* line 533, C:/Users/Rytis/Desktop/projektas/assets/sass/app.scss */
+.blog-box {
+  margin-top: 30px;
+  text-align: left;
+}
+
+/* line 538, C:/Users/Rytis/Desktop/projektas/assets/sass/app.scss */
+.blog-box-image {
+  margin-top: 8px;
+  overflow: hidden;
+  border-radius: 4px;
+}
+
+/* line 544, C:/Users/Rytis/Desktop/projektas/assets/sass/app.scss */
+.blog-box-image img {
+  -o-transition: all .8s;
+  -moz-transition: all .8s;
+  -webkit-transition: all .8s;
+  -ms-transition: all .8s;
+  transition: all .8s;
+}
+
+/* line 548, C:/Users/Rytis/Desktop/projektas/assets/sass/app.scss */
+.blog-box-image:hover img {
+  -o-transform: scale(1.25);
+  -moz-transform: scale(1.25);
+  -webkit-transform: scale(1.25);
+  -ms-transform: scale(1.25);
+  transform: scale(1.25);
+}
+
+/* line 552, C:/Users/Rytis/Desktop/projektas/assets/sass/app.scss */
+.blog-box h3 {
+  margin-top: 0;
+}
+
+/* line 555, C:/Users/Rytis/Desktop/projektas/assets/sass/app.scss */
+.blog-box h3 a {
+  color: #555;
+}
+
+/* line 556, C:/Users/Rytis/Desktop/projektas/assets/sass/app.scss */
+.blog-box h3 a:hover, .blog-box h3 a:focus {
+  color: #9b59b6;
+}
+
+/* line 558, C:/Users/Rytis/Desktop/projektas/assets/sass/app.scss */
+.blog-box h3 i {
+  padding-left: 10px;
+  color: #ccc;
+  -o-transition: all .3s;
+  -moz-transition: all .3s;
+  -webkit-transition: all .3s;
+  -ms-transition: all .3s;
+  transition: all .3s;
+}
+
+/* line 563, C:/Users/Rytis/Desktop/projektas/assets/sass/app.scss */
+.blog-box h3:hover i {
+  padding-left: 15px;
+}
+
+/* line 565, C:/Users/Rytis/Desktop/projektas/assets/sass/app.scss */
+.blog-box-date {
+  padding-bottom: 10px;
+  font-size: 14px;
+  color: #aaa;
+  text-transform: uppercase;
+}
+
+/* line 572, C:/Users/Rytis/Desktop/projektas/assets/sass/app.scss */
+.blog-box-date i {
+  padding-right: 5px;
+  color: #ddd;
+}
+
+/* line 577, C:/Users/Rytis/Desktop/projektas/assets/sass/app.scss */
+.blog-container .section-bottom-button {
+  padding-top: 40px;
+}
+
+/***** Footer *****/
+/* line 584, C:/Users/Rytis/Desktop/projektas/assets/sass/app.scss */
+footer {
+  padding: 40px 0 0 0;
+  background: #444;
+  color: #aaa;
+  text-align: left;
+}
+
+/* line 591, C:/Users/Rytis/Desktop/projektas/assets/sass/app.scss */
+.footer-left a {
+  color: #ddd;
+  border-bottom: 1px dashed #ddd;
+}
+
+/* line 592, C:/Users/Rytis/Desktop/projektas/assets/sass/app.scss */
+.footer-left a:hover, .footer-left a:focus {
+  color: #ddd;
+  border: 0;
+}
+
+/* line 594, C:/Users/Rytis/Desktop/projektas/assets/sass/app.scss */
+.footer-right {
+  text-align: right;
+}
+
+/* line 598, C:/Users/Rytis/Desktop/projektas/assets/sass/app.scss */
+.footer-right a {
+  margin: 0 6px;
+  font-size: 32px;
+  color: #aaa;
+}
+
+/* line 603, C:/Users/Rytis/Desktop/projektas/assets/sass/app.scss */
+.footer-right a:hover, .footer-right a:focus {
+  color: #eee;
+}
+
+/* line 605, C:/Users/Rytis/Desktop/projektas/assets/sass/app.scss */
+.footer-bottom {
+  padding-bottom: 25px;
+  text-align: center;
+}
+
+/* line 610, C:/Users/Rytis/Desktop/projektas/assets/sass/app.scss */
+.footer-bottom a {
+  font-size: 32px;
+  color: #666;
+  line-height: 40px;
+}
+
+/* line 616, C:/Users/Rytis/Desktop/projektas/assets/sass/app.scss */
+.footer-bottom a:hover, .footer-bottom a:focus {
+  color: #888;
+}
+
+/*# sourceMappingURL=../css/app.map */
